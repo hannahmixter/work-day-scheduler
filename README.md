@@ -15,6 +15,8 @@ when you click into any text area, you will be able to enter notes and events fo
 
 ![app screenshot](assets/images/wds-screenshot.png)
 
+https://hannahmixter.github.io/work-day-scheduler/
+
 ## Credits
 
 The starter code for the HTML and CSS was provided by the UMN coding bootcamp.
