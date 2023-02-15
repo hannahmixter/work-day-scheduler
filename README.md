@@ -13,7 +13,7 @@ N/A
 
 when you click into any text area, you will be able to enter notes and events for each hour. When you click on a save button to the right, the notes from that hour block will be saved to local storage. When the page is refreshed, those saved notes will persist.
 
-![app screenshot](assets/images/wds-screenshot.png)
+![app screenshot](./assets/Images/wds-screenshot.png)
 
 https://hannahmixter.github.io/work-day-scheduler/
 
