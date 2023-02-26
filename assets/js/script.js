@@ -63,47 +63,47 @@ const but5Btn = document.querySelector("#hour-5");
 but5Btn.addEventListener("click", saveNote5);
 
 //functions which save the inputs from the text areas to local storage
-function saveNote9() {
+function saveNote9(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("9am", nineAm.value);
   }
 }
-function saveNote10() {
+function saveNote10(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("10am", tenAm.value);
   }
 }
-function saveNote11() {
+function saveNote11(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("11am", elevenAm.value);
   }
 }
-function saveNote12() {
+function saveNote12(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("12pm", twelvePm.value);
   }
 }
-function saveNote1() {
+function saveNote1(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("1pm", onePm.value);
   }
 }
-function saveNote2() {
+function saveNote2(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("2pm", twoPm.value);
   }
 }
-function saveNote3() {
+function saveNote3(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("3pm", threePm.value);
   }
 }
-function saveNote4() {
+function saveNote4(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("4pm", fourPm.value);
   }
 }
-function saveNote5() {
+function saveNote5(event) {
   if (event.target.tagName == "I") {
     localStorage.setItem("5pm", fivePm.value);
   }
